@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Vikash Tiwari
 
 ### Aspiring Data Analyst \| Information Technology Student
